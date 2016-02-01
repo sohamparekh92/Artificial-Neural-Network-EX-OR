@@ -1,0 +1,18000 @@
+Pass: 0
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.760518
+
+Pass: 1
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.884334
+
+Pass: 2
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 3
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 4
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.762337
+
+Pass: 5
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 6
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.61809
+
+Pass: 7
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 8
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.759259
+
+Pass: 9
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.757839
+
+Pass: 10
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.609918
+
+Pass: 11
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 12
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 13
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.753825
+
+Pass: 14
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 15
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.601682
+
+Pass: 16
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.596547
+
+Pass: 17
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.874513
+
+Pass: 18
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.876194
+
+Pass: 19
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.878992
+
+Pass: 20
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.600737
+
+Pass: 21
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.597077
+
+Pass: 22
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 23
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 24
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.588209
+
+Pass: 25
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.582516
+
+Pass: 26
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.874513
+
+Pass: 27
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.757136
+
+Pass: 28
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.576526
+
+Pass: 29
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.873931
+
+Pass: 30
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 31
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.876256
+
+Pass: 32
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 33
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.76218
+
+Pass: 34
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 35
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.760874
+
+Pass: 36
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 37
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.57726
+
+Pass: 38
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 39
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.757397
+
+Pass: 40
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.755946
+
+Pass: 41
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.873225
+
+Pass: 42
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.756478
+
+Pass: 43
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.875129
+
+Pass: 44
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 45
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 46
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.759466
+
+Pass: 47
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 48
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.576059
+
+Pass: 49
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.756572
+
+Pass: 50
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 51
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 52
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 53
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 54
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 55
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.566535
+
+Pass: 56
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.56032
+
+Pass: 57
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.751272
+
+Pass: 58
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.749372
+
+Pass: 59
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 60
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.546627
+
+Pass: 61
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.745262
+
+Pass: 62
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.536825
+
+Pass: 63
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.858729
+
+Pass: 64
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.860716
+
+Pass: 65
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.747907
+
+Pass: 66
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.747618
+
+Pass: 67
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 68
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.535855
+
+Pass: 69
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.860643
+
+Pass: 70
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.530791
+
+Pass: 71
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.524062
+
+Pass: 72
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.85801
+
+Pass: 73
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.747489
+
+Pass: 74
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 75
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.859544
+
+Pass: 76
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.86232
+
+Pass: 77
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 78
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 79
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.867208
+
+Pass: 80
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.532195
+
+Pass: 81
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.757937
+
+Pass: 82
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.523512
+
+Pass: 83
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 84
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.863625
+
+Pass: 85
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.515972
+
+Pass: 86
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.508985
+
+Pass: 87
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 88
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 89
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.494432
+
+Pass: 90
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.485304
+
+Pass: 91
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 92
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 93
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 94
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 95
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.468227
+
+Pass: 96
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.749059
+
+Pass: 97
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.847389
+
+Pass: 98
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.749939
+
+Pass: 99
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.849839
+
+Pass: 100
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 101
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.465407
+
+Pass: 102
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.752178
+
+Pass: 103
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 104
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 105
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.848636
+
+Pass: 106
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.75298
+
+Pass: 107
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.456493
+
+Pass: 108
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.848641
+
+Pass: 109
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 110
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.851534
+
+Pass: 111
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.758042
+
+Pass: 112
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.854875
+
+Pass: 113
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.760787
+
+Pass: 114
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.857893
+
+Pass: 115
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.763352
+
+Pass: 116
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.860801
+
+Pass: 117
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.471094
+
+Pass: 118
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 119
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 120
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.765177
+
+Pass: 121
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.458366
+
+Pass: 122
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 123
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.444382
+
+Pass: 124
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.760086
+
+Pass: 125
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.758325
+
+Pass: 126
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.426242
+
+Pass: 127
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.413974
+
+Pass: 128
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.840428
+
+Pass: 129
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.398438
+
+Pass: 130
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.839313
+
+Pass: 131
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 132
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.758516
+
+Pass: 133
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 134
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.841659
+
+Pass: 135
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.844981
+
+Pass: 136
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 137
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.765829
+
+Pass: 138
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.850001
+
+Pass: 139
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.852982
+
+Pass: 140
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.771765
+
+Pass: 141
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.771792
+
+Pass: 142
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.856562
+
+Pass: 143
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.418266
+
+Pass: 144
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.407236
+
+Pass: 145
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.390912
+
+Pass: 146
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.847792
+
+Pass: 147
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.771877
+
+Pass: 148
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.771508
+
+Pass: 149
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 150
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.769883
+
+Pass: 151
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.369602
+
+Pass: 152
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.84291
+
+Pass: 153
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.355679
+
+Pass: 154
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 155
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.840596
+
+Pass: 156
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.340127
+
+Pass: 157
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 158
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.320778
+
+Pass: 159
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.302462
+
+Pass: 160
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 161
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 162
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.82608
+
+Pass: 163
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.829846
+
+Pass: 164
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.774944
+
+Pass: 165
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.28407
+
+Pass: 166
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.773857
+
+Pass: 167
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 168
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 169
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.771782
+
+Pass: 170
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 171
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 172
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 173
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.770122
+
+Pass: 174
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.768963
+
+Pass: 175
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.767449
+
+Pass: 176
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.255157
+
+Pass: 177
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.235142
+
+Pass: 178
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.208377
+
+Pass: 179
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.760186
+
+Pass: 180
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.758348
+
+Pass: 181
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.165884
+
+Pass: 182
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 183
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.754178
+
+Pass: 184
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.752667
+
+Pass: 185
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 186
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.13029
+
+Pass: 187
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.748982
+
+Pass: 188
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.747168
+
+Pass: 189
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.745175
+
+Pass: 190
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 191
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 192
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.76328
+
+Pass: 193
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 194
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.102687
+
+Pass: 195
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.747141
+
+Pass: 196
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.745496
+
+Pass: 197
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 198
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.0667164
+
+Pass: 199
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.747717
+
+Pass: 200
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.751694
+
+Pass: 201
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 202
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.0474945
+
+Pass: 203
+Input
+1
+0
+TargetVal
+1
+resultVal
+0.020328
+
+Pass: 204
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.0164292
+
+Pass: 205
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.0570163
+
+Pass: 206
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.751041
+
+Pass: 207
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.74951
+
+Pass: 208
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 209
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.747061
+
+Pass: 210
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.117496
+
+Pass: 211
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.68778
+
+Pass: 212
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.692931
+
+Pass: 213
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.703201
+
+Pass: 214
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.714625
+
+Pass: 215
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.768324
+
+Pass: 216
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 217
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.121022
+
+Pass: 218
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.717602
+
+Pass: 219
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 220
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.723781
+
+Pass: 221
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.779736
+
+Pass: 222
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 223
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.147116
+
+Pass: 224
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.722516
+
+Pass: 225
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.183572
+
+Pass: 226
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.218725
+
+Pass: 227
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.263374
+
+Pass: 228
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.310414
+
+Pass: 229
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.662605
+
+Pass: 230
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.364266
+
+Pass: 231
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 232
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.800171
+
+Pass: 233
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.799622
+
+Pass: 234
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 235
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.798324
+
+Pass: 236
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.412264
+
+Pass: 237
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.627056
+
+Pass: 238
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.44548
+
+Pass: 239
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.476106
+
+Pass: 240
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.513459
+
+Pass: 241
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 242
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.569338
+
+Pass: 243
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 244
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.557762
+
+Pass: 245
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.570283
+
+Pass: 246
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.827683
+
+Pass: 247
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.58341
+
+Pass: 248
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.566718
+
+Pass: 249
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.835634
+
+Pass: 250
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.607861
+
+Pass: 251
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.629915
+
+Pass: 252
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 253
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.534575
+
+Pass: 254
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 255
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.55475
+
+Pass: 256
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.851815
+
+Pass: 257
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.577824
+
+Pass: 258
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.856178
+
+Pass: 259
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 260
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.601406
+
+Pass: 261
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.617521
+
+Pass: 262
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.630002
+
+Pass: 263
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 264
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.655083
+
+Pass: 265
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.676535
+
+Pass: 266
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 267
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 268
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.875005
+
+Pass: 269
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 270
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.578552
+
+Pass: 271
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.596241
+
+Pass: 272
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.698455
+
+Pass: 273
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.610462
+
+Pass: 274
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.888314
+
+Pass: 275
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.628829
+
+Pass: 276
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 277
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.651205
+
+Pass: 278
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.895994
+
+Pass: 279
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.672309
+
+Pass: 280
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.687729
+
+Pass: 281
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.705414
+
+Pass: 282
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.722764
+
+Pass: 283
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.670695
+
+Pass: 284
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.91141
+
+Pass: 285
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.912022
+
+Pass: 286
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.695879
+
+Pass: 287
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.714714
+
+Pass: 288
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 289
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.743002
+
+Pass: 290
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.68361
+
+Pass: 291
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.920039
+
+Pass: 292
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.697495
+
+Pass: 293
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.755038
+
+Pass: 294
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 295
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.704052
+
+Pass: 296
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.717485
+
+Pass: 297
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.929793
+
+Pass: 298
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.930445
+
+Pass: 299
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.740425
+
+Pass: 300
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.752503
+
+Pass: 301
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 302
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.77098
+
+Pass: 303
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 304
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.785108
+
+Pass: 305
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 306
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 307
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 308
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.798824
+
+Pass: 309
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.940683
+
+Pass: 310
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.809152
+
+Pass: 311
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.942381
+
+Pass: 312
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 313
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.942858
+
+Pass: 314
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.942862
+
+Pass: 315
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.942835
+
+Pass: 316
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 317
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.725479
+
+Pass: 318
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.943755
+
+Pass: 319
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.944015
+
+Pass: 320
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 321
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.944081
+
+Pass: 322
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.750066
+
+Pass: 323
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.765265
+
+Pass: 324
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.789313
+
+Pass: 325
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 326
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 327
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.797465
+
+Pass: 328
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.806245
+
+Pass: 329
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.950958
+
+Pass: 330
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 331
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.951483
+
+Pass: 332
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.951502
+
+Pass: 333
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.775827
+
+Pass: 334
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.952286
+
+Pass: 335
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 336
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.793807
+
+Pass: 337
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.805556
+
+Pass: 338
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 339
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.790745
+
+Pass: 340
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.799515
+
+Pass: 341
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.817649
+
+Pass: 342
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.807801
+
+Pass: 343
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.825713
+
+Pass: 344
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.960343
+
+Pass: 345
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.810112
+
+Pass: 346
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.818291
+
+Pass: 347
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.962692
+
+Pass: 348
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.96301
+
+Pass: 349
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 350
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 351
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.832629
+
+Pass: 352
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 353
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 354
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.842217
+
+Pass: 355
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.824163
+
+Pass: 356
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 357
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.9659
+
+Pass: 358
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.84386
+
+Pass: 359
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 360
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.966861
+
+Pass: 361
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.852339
+
+Pass: 362
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.858171
+
+Pass: 363
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.865111
+
+Pass: 364
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.969164
+
+Pass: 365
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 366
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.874435
+
+Pass: 367
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.878864
+
+Pass: 368
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.884115
+
+Pass: 369
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.815059
+
+Pass: 370
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 371
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.827701
+
+Pass: 372
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.972665
+
+Pass: 373
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 374
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.841761
+
+Pass: 375
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.973265
+
+Pass: 376
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.874115
+
+Pass: 377
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.851402
+
+Pass: 378
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 379
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 380
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.861014
+
+Pass: 381
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 382
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.869275
+
+Pass: 383
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.868436
+
+Pass: 384
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.874008
+
+Pass: 385
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.867106
+
+Pass: 386
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 387
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 388
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.881598
+
+Pass: 389
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 390
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 391
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.977737
+
+Pass: 392
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.867686
+
+Pass: 393
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.978159
+
+Pass: 394
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.88651
+
+Pass: 395
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.890963
+
+Pass: 396
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.978949
+
+Pass: 397
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.979054
+
+Pass: 398
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.865637
+
+Pass: 399
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.897207
+
+Pass: 400
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.900659
+
+Pass: 401
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.865934
+
+Pass: 402
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.980676
+
+Pass: 403
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.905183
+
+Pass: 404
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.908515
+
+Pass: 405
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.981366
+
+Pass: 406
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 407
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.91412
+
+Pass: 408
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.860963
+
+Pass: 409
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.916548
+
+Pass: 410
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.865162
+
+Pass: 411
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.982852
+
+Pass: 412
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 413
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.983017
+
+Pass: 414
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.873109
+
+Pass: 415
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.917138
+
+Pass: 416
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.983615
+
+Pass: 417
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.920103
+
+Pass: 418
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.983887
+
+Pass: 419
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 420
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.87363
+
+Pass: 421
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.879022
+
+Pass: 422
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.921286
+
+Pass: 423
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.885167
+
+Pass: 424
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.889661
+
+Pass: 425
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.921671
+
+Pass: 426
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 427
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.924388
+
+Pass: 428
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.986077
+
+Pass: 429
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 430
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.891544
+
+Pass: 431
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.986376
+
+Pass: 432
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 433
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.897295
+
+Pass: 434
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.92559
+
+Pass: 435
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.927552
+
+Pass: 436
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.930248
+
+Pass: 437
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.933
+
+Pass: 438
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.892957
+
+Pass: 439
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.935534
+
+Pass: 440
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.987868
+
+Pass: 441
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.93772
+
+Pass: 442
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.939471
+
+Pass: 443
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.988185
+
+Pass: 444
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 445
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.890219
+
+Pass: 446
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 447
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 448
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.988524
+
+Pass: 449
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.896565
+
+Pass: 450
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.940404
+
+Pass: 451
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.941663
+
+Pass: 452
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.943459
+
+Pass: 453
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.945324
+
+Pass: 454
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.947122
+
+Pass: 455
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.989389
+
+Pass: 456
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.89109
+
+Pass: 457
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.948753
+
+Pass: 458
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 459
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 460
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.989808
+
+Pass: 461
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.950095
+
+Pass: 462
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.893771
+
+Pass: 463
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.897845
+
+Pass: 464
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 465
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 466
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.905182
+
+Pass: 467
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 468
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99059
+
+Pass: 469
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.990604
+
+Pass: 470
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 471
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.910504
+
+Pass: 472
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 473
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 474
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 475
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.990806
+
+Pass: 476
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.915117
+
+Pass: 477
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.918063
+
+Pass: 478
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 479
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 480
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.922992
+
+Pass: 481
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 482
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.991321
+
+Pass: 483
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 484
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 485
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 486
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.991336
+
+Pass: 487
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 488
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.94539
+
+Pass: 489
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 490
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 491
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.924959
+
+Pass: 492
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.946711
+
+Pass: 493
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.991644
+
+Pass: 494
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.926696
+
+Pass: 495
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 496
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 497
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 498
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.947556
+
+Pass: 499
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.948783
+
+Pass: 500
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.991981
+
+Pass: 501
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 502
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 503
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.92677
+
+Pass: 504
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.992116
+
+Pass: 505
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.950305
+
+Pass: 506
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 507
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.992235
+
+Pass: 508
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.951784
+
+Pass: 509
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.952861
+
+Pass: 510
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.92618
+
+Pass: 511
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.992492
+
+Pass: 512
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.95407
+
+Pass: 513
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.992591
+
+Pass: 514
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99261
+
+Pass: 515
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.955384
+
+Pass: 516
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.992668
+
+Pass: 517
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 518
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.992689
+
+Pass: 519
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.956694
+
+Pass: 520
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.925231
+
+Pass: 521
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.927389
+
+Pass: 522
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.930308
+
+Pass: 523
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 524
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.934119
+
+Pass: 525
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.993222
+
+Pass: 526
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 527
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 528
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 529
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.955446
+
+Pass: 530
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.956364
+
+Pass: 531
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.993367
+
+Pass: 532
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.93491
+
+Pass: 533
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.93669
+
+Pass: 534
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.993565
+
+Pass: 535
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.993594
+
+Pass: 536
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.993602
+
+Pass: 537
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.993605
+
+Pass: 538
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.993605
+
+Pass: 539
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.993606
+
+Pass: 540
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 541
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.993606
+
+Pass: 542
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.939925
+
+Pass: 543
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.941525
+
+Pass: 544
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.956024
+
+Pass: 545
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.993831
+
+Pass: 546
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 547
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.993857
+
+Pass: 548
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.957106
+
+Pass: 549
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.957978
+
+Pass: 550
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.941588
+
+Pass: 551
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.942841
+
+Pass: 552
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 553
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 554
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.958553
+
+Pass: 555
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.944736
+
+Pass: 556
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.959272
+
+Pass: 557
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 558
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.945526
+
+Pass: 559
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.960014
+
+Pass: 560
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.946599
+
+Pass: 561
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.947828
+
+Pass: 562
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 563
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.949897
+
+Pass: 564
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 565
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.951559
+
+Pass: 566
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.952741
+
+Pass: 567
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.994809
+
+Pass: 568
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.958933
+
+Pass: 569
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.959719
+
+Pass: 570
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.960737
+
+Pass: 571
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.961781
+
+Pass: 572
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 573
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.995015
+
+Pass: 574
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.951457
+
+Pass: 575
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.995066
+
+Pass: 576
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.952852
+
+Pass: 577
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.995127
+
+Pass: 578
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.954313
+
+Pass: 579
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.995187
+
+Pass: 580
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.962133
+
+Pass: 581
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 582
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.963014
+
+Pass: 583
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.963745
+
+Pass: 584
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.964604
+
+Pass: 585
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 586
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.952981
+
+Pass: 587
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.995409
+
+Pass: 588
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.965507
+
+Pass: 589
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.953854
+
+Pass: 590
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.954749
+
+Pass: 591
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 592
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 593
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.96566
+
+Pass: 594
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 595
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.95589
+
+Pass: 596
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 597
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99566
+
+Pass: 598
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.995663
+
+Pass: 599
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.957147
+
+Pass: 600
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.9957
+
+Pass: 601
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.958292
+
+Pass: 602
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.995748
+
+Pass: 603
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 604
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.959546
+
+Pass: 605
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.960349
+
+Pass: 606
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.995838
+
+Pass: 607
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.961618
+
+Pass: 608
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.962402
+
+Pass: 609
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.9633
+
+Pass: 610
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.964185
+
+Pass: 611
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.964068
+
+Pass: 612
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996041
+
+Pass: 613
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996052
+
+Pass: 614
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996055
+
+Pass: 615
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 616
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 617
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.964719
+
+Pass: 618
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.965352
+
+Pass: 619
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996109
+
+Pass: 620
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.963842
+
+Pass: 621
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 622
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996157
+
+Pass: 623
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.966221
+
+Pass: 624
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 625
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.964181
+
+Pass: 626
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 627
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996226
+
+Pass: 628
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.96679
+
+Pass: 629
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 630
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.967516
+
+Pass: 631
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996279
+
+Pass: 632
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 633
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 634
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 635
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.963971
+
+Pass: 636
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996314
+
+Pass: 637
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.968123
+
+Pass: 638
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 639
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996351
+
+Pass: 640
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 641
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996354
+
+Pass: 642
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996354
+
+Pass: 643
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 644
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.968842
+
+Pass: 645
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996373
+
+Pass: 646
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 647
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996381
+
+Pass: 648
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 649
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.969548
+
+Pass: 650
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.970024
+
+Pass: 651
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996424
+
+Pass: 652
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.96291
+
+Pass: 653
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.963551
+
+Pass: 654
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 655
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 656
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996506
+
+Pass: 657
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.970398
+
+Pass: 658
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996525
+
+Pass: 659
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99653
+
+Pass: 660
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.97102
+
+Pass: 661
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 662
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.963842
+
+Pass: 663
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.964464
+
+Pass: 664
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.971278
+
+Pass: 665
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 666
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 667
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.965165
+
+Pass: 668
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.965769
+
+Pass: 669
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996702
+
+Pass: 670
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.966754
+
+Pass: 671
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996735
+
+Pass: 672
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996742
+
+Pass: 673
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.971156
+
+Pass: 674
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.971584
+
+Pass: 675
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.97213
+
+Pass: 676
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 677
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.996811
+
+Pass: 678
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.96636
+
+Pass: 679
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.972781
+
+Pass: 680
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.966796
+
+Pass: 681
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.967317
+
+Pass: 682
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.972941
+
+Pass: 683
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 684
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.967913
+
+Pass: 685
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 686
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 687
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.973234
+
+Pass: 688
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.968367
+
+Pass: 689
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 690
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.968926
+
+Pass: 691
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.969453
+
+Pass: 692
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.970079
+
+Pass: 693
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.9731
+
+Pass: 694
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.97343
+
+Pass: 695
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.9739
+
+Pass: 696
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.974398
+
+Pass: 697
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 698
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 699
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 700
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.975093
+
+Pass: 701
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997185
+
+Pass: 702
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 703
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.975553
+
+Pass: 704
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.968936
+
+Pass: 705
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 706
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.969486
+
+Pass: 707
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.975726
+
+Pass: 708
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.976003
+
+Pass: 709
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.97639
+
+Pass: 710
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 711
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997305
+
+Pass: 712
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 713
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.976967
+
+Pass: 714
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.977251
+
+Pass: 715
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 716
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997337
+
+Pass: 717
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997339
+
+Pass: 718
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.968539
+
+Pass: 719
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.977646
+
+Pass: 720
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.968984
+
+Pass: 721
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 722
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.969614
+
+Pass: 723
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 724
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997422
+
+Pass: 725
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 726
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.977663
+
+Pass: 727
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997435
+
+Pass: 728
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.97008
+
+Pass: 729
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 730
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.977898
+
+Pass: 731
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 732
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.978227
+
+Pass: 733
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.978502
+
+Pass: 734
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 735
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997503
+
+Pass: 736
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.978956
+
+Pass: 737
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.979201
+
+Pass: 738
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997527
+
+Pass: 739
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 740
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.97962
+
+Pass: 741
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 742
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.979918
+
+Pass: 743
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 744
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 745
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997558
+
+Pass: 746
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 747
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.980252
+
+Pass: 748
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.98046
+
+Pass: 749
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997579
+
+Pass: 750
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997583
+
+Pass: 751
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 752
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.968002
+
+Pass: 753
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.9976
+
+Pass: 754
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997605
+
+Pass: 755
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.968772
+
+Pass: 756
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.980594
+
+Pass: 757
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 758
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 759
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 760
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 761
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 762
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.969262
+
+Pass: 763
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 764
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99766
+
+Pass: 765
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.980702
+
+Pass: 766
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99767
+
+Pass: 767
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997673
+
+Pass: 768
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997673
+
+Pass: 769
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.98098
+
+Pass: 770
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 771
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997684
+
+Pass: 772
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 773
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997685
+
+Pass: 774
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 775
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.981258
+
+Pass: 776
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.969243
+
+Pass: 777
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 778
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.969841
+
+Pass: 779
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997731
+
+Pass: 780
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997736
+
+Pass: 781
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.981262
+
+Pass: 782
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 783
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.981503
+
+Pass: 784
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.981704
+
+Pass: 785
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997767
+
+Pass: 786
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.982013
+
+Pass: 787
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997779
+
+Pass: 788
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 789
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 790
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.982288
+
+Pass: 791
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 792
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.969305
+
+Pass: 793
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 794
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 795
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.982405
+
+Pass: 796
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.969841
+
+Pass: 797
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997836
+
+Pass: 798
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.970433
+
+Pass: 799
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.98243
+
+Pass: 800
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997866
+
+Pass: 801
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.970936
+
+Pass: 802
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997883
+
+Pass: 803
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 804
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997889
+
+Pass: 805
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.971597
+
+Pass: 806
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.972048
+
+Pass: 807
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.982318
+
+Pass: 808
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.997929
+
+Pass: 809
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.982497
+
+Pass: 810
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.982676
+
+Pass: 811
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 812
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.982955
+
+Pass: 813
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.983132
+
+Pass: 814
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 815
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 816
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.971693
+
+Pass: 817
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.972137
+
+Pass: 818
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.972702
+
+Pass: 819
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998015
+
+Pass: 820
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99802
+
+Pass: 821
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998021
+
+Pass: 822
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998022
+
+Pass: 823
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998022
+
+Pass: 824
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998022
+
+Pass: 825
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.973528
+
+Pass: 826
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.983016
+
+Pass: 827
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.973884
+
+Pass: 828
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 829
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.983108
+
+Pass: 830
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 831
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998069
+
+Pass: 832
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.974205
+
+Pass: 833
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.983253
+
+Pass: 834
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.974538
+
+Pass: 835
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.974891
+
+Pass: 836
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998116
+
+Pass: 837
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.983251
+
+Pass: 838
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998128
+
+Pass: 839
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.983442
+
+Pass: 840
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998136
+
+Pass: 841
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.975157
+
+Pass: 842
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.983602
+
+Pass: 843
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998157
+
+Pass: 844
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 845
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 846
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 847
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998161
+
+Pass: 848
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998161
+
+Pass: 849
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998161
+
+Pass: 850
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998161
+
+Pass: 851
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 852
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.975435
+
+Pass: 853
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998171
+
+Pass: 854
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 855
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 856
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.975914
+
+Pass: 857
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 858
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 859
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.983602
+
+Pass: 860
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998193
+
+Pass: 861
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.983793
+
+Pass: 862
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998201
+
+Pass: 863
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 864
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 865
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.984016
+
+Pass: 866
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.97587
+
+Pass: 867
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 868
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.98413
+
+Pass: 869
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99823
+
+Pass: 870
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 871
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998232
+
+Pass: 872
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.984325
+
+Pass: 873
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.975967
+
+Pass: 874
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998248
+
+Pass: 875
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998252
+
+Pass: 876
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998252
+
+Pass: 877
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.98443
+
+Pass: 878
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998258
+
+Pass: 879
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 880
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.976202
+
+Pass: 881
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998269
+
+Pass: 882
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.98454
+
+Pass: 883
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.984667
+
+Pass: 884
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998285
+
+Pass: 885
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.976318
+
+Pass: 886
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.976624
+
+Pass: 887
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998307
+
+Pass: 888
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.984743
+
+Pass: 889
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 890
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.984903
+
+Pass: 891
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.976905
+
+Pass: 892
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.985023
+
+Pass: 893
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998341
+
+Pass: 894
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 895
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.977118
+
+Pass: 896
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998352
+
+Pass: 897
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998355
+
+Pass: 898
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.985113
+
+Pass: 899
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.985235
+
+Pass: 900
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.985393
+
+Pass: 901
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.977114
+
+Pass: 902
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998383
+
+Pass: 903
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998386
+
+Pass: 904
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.985549
+
+Pass: 905
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.985665
+
+Pass: 906
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.985814
+
+Pass: 907
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 908
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.986017
+
+Pass: 909
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998411
+
+Pass: 910
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998412
+
+Pass: 911
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 912
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.976831
+
+Pass: 913
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.986137
+
+Pass: 914
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.986228
+
+Pass: 915
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 916
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.976973
+
+Pass: 917
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.977271
+
+Pass: 918
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.977659
+
+Pass: 919
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 920
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 921
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.978217
+
+Pass: 922
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998475
+
+Pass: 923
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.978587
+
+Pass: 924
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.978877
+
+Pass: 925
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998494
+
+Pass: 926
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.979321
+
+Pass: 927
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 928
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998506
+
+Pass: 929
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998506
+
+Pass: 930
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998507
+
+Pass: 931
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.979713
+
+Pass: 932
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998513
+
+Pass: 933
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998515
+
+Pass: 934
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 935
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 936
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998516
+
+Pass: 937
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98005
+
+Pass: 938
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998522
+
+Pass: 939
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998524
+
+Pass: 940
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998525
+
+Pass: 941
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998525
+
+Pass: 942
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 943
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.985758
+
+Pass: 944
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 945
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.985908
+
+Pass: 946
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.98603
+
+Pass: 947
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.980015
+
+Pass: 948
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.980207
+
+Pass: 949
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.986126
+
+Pass: 950
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.980479
+
+Pass: 951
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 952
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 953
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.986196
+
+Pass: 954
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.980693
+
+Pass: 955
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.980882
+
+Pass: 956
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998593
+
+Pass: 957
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.986227
+
+Pass: 958
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 959
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 960
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998601
+
+Pass: 961
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998601
+
+Pass: 962
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998602
+
+Pass: 963
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.981132
+
+Pass: 964
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 965
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.981398
+
+Pass: 966
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.98627
+
+Pass: 967
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.981593
+
+Pass: 968
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 969
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.981837
+
+Pass: 970
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 971
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 972
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.982123
+
+Pass: 973
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.982312
+
+Pass: 974
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99865
+
+Pass: 975
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.986167
+
+Pass: 976
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.982554
+
+Pass: 977
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998662
+
+Pass: 978
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998664
+
+Pass: 979
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 980
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.986259
+
+Pass: 981
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 982
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99867
+
+Pass: 983
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.98641
+
+Pass: 984
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 985
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.986551
+
+Pass: 986
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998679
+
+Pass: 987
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99868
+
+Pass: 988
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.982427
+
+Pass: 989
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.982603
+
+Pass: 990
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.986621
+
+Pass: 991
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.986709
+
+Pass: 992
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998702
+
+Pass: 993
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.986875
+
+Pass: 994
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998708
+
+Pass: 995
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.982595
+
+Pass: 996
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.982763
+
+Pass: 997
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.982984
+
+Pass: 998
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 999
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.986873
+
+Pass: 1000
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1001
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1002
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998734
+
+Pass: 1003
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998734
+
+Pass: 1004
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998734
+
+Pass: 1005
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998734
+
+Pass: 1006
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.983206
+
+Pass: 1007
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.983369
+
+Pass: 1008
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.986922
+
+Pass: 1009
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99875
+
+Pass: 1010
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998751
+
+Pass: 1011
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.983559
+
+Pass: 1012
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1013
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.986994
+
+Pass: 1014
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.987089
+
+Pass: 1015
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98361
+
+Pass: 1016
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.983738
+
+Pass: 1017
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998777
+
+Pass: 1018
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1019
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998779
+
+Pass: 1020
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.987164
+
+Pass: 1021
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1022
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.987288
+
+Pass: 1023
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1024
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1025
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1026
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.983806
+
+Pass: 1027
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998793
+
+Pass: 1028
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.984003
+
+Pass: 1029
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.98735
+
+Pass: 1030
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.987432
+
+Pass: 1031
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1032
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1033
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.987593
+
+Pass: 1034
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998812
+
+Pass: 1035
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.983944
+
+Pass: 1036
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.987687
+
+Pass: 1037
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.984062
+
+Pass: 1038
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998827
+
+Pass: 1039
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.987755
+
+Pass: 1040
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98419
+
+Pass: 1041
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.987834
+
+Pass: 1042
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998841
+
+Pass: 1043
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.987943
+
+Pass: 1044
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998846
+
+Pass: 1045
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998847
+
+Pass: 1046
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.988071
+
+Pass: 1047
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99885
+
+Pass: 1048
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998851
+
+Pass: 1049
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1050
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98409
+
+Pass: 1051
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.98816
+
+Pass: 1052
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.984217
+
+Pass: 1053
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.984357
+
+Pass: 1054
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998869
+
+Pass: 1055
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1056
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998871
+
+Pass: 1057
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998872
+
+Pass: 1058
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1059
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.988171
+
+Pass: 1060
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.984557
+
+Pass: 1061
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.988245
+
+Pass: 1062
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998883
+
+Pass: 1063
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1064
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.988354
+
+Pass: 1065
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.988436
+
+Pass: 1066
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.988538
+
+Pass: 1067
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998894
+
+Pass: 1068
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.988677
+
+Pass: 1069
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1070
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.988786
+
+Pass: 1071
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998902
+
+Pass: 1072
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.988891
+
+Pass: 1073
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998906
+
+Pass: 1074
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998907
+
+Pass: 1075
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.984103
+
+Pass: 1076
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.984252
+
+Pass: 1077
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998915
+
+Pass: 1078
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1079
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.984518
+
+Pass: 1080
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1081
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98471
+
+Pass: 1082
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.988845
+
+Pass: 1083
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1084
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998931
+
+Pass: 1085
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998931
+
+Pass: 1086
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.988934
+
+Pass: 1087
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998934
+
+Pass: 1088
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.984764
+
+Pass: 1089
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998938
+
+Pass: 1090
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1091
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.984948
+
+Pass: 1092
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.985087
+
+Pass: 1093
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998948
+
+Pass: 1094
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.988918
+
+Pass: 1095
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.985269
+
+Pass: 1096
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1097
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998957
+
+Pass: 1098
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.998958
+
+Pass: 1099
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1100
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1101
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.985435
+
+Pass: 1102
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.988947
+
+Pass: 1103
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1104
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.985536
+
+Pass: 1105
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.985659
+
+Pass: 1106
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.988973
+
+Pass: 1107
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.989034
+
+Pass: 1108
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.985751
+
+Pass: 1109
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.989123
+
+Pass: 1110
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.989193
+
+Pass: 1111
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.989282
+
+Pass: 1112
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.989377
+
+Pass: 1113
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.985621
+
+Pass: 1114
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.985722
+
+Pass: 1115
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999006
+
+Pass: 1116
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999007
+
+Pass: 1117
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999008
+
+Pass: 1118
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.985937
+
+Pass: 1119
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.98941
+
+Pass: 1120
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1121
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999015
+
+Pass: 1122
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.986033
+
+Pass: 1123
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.989466
+
+Pass: 1124
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1125
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.989542
+
+Pass: 1126
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.989612
+
+Pass: 1127
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1128
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999028
+
+Pass: 1129
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.985979
+
+Pass: 1130
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.986096
+
+Pass: 1131
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999035
+
+Pass: 1132
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.986291
+
+Pass: 1133
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1134
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999041
+
+Pass: 1135
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.989626
+
+Pass: 1136
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.986419
+
+Pass: 1137
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.989683
+
+Pass: 1138
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1139
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.989763
+
+Pass: 1140
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1141
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999054
+
+Pass: 1142
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1143
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.986416
+
+Pass: 1144
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999057
+
+Pass: 1145
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999058
+
+Pass: 1146
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999058
+
+Pass: 1147
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999058
+
+Pass: 1148
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1149
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1150
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.986573
+
+Pass: 1151
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1152
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999061
+
+Pass: 1153
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.989791
+
+Pass: 1154
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.989852
+
+Pass: 1155
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999066
+
+Pass: 1156
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999067
+
+Pass: 1157
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.989962
+
+Pass: 1158
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990024
+
+Pass: 1159
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.986479
+
+Pass: 1160
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990101
+
+Pass: 1161
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1162
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990177
+
+Pass: 1163
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.986496
+
+Pass: 1164
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999085
+
+Pass: 1165
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98662
+
+Pass: 1166
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999089
+
+Pass: 1167
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1168
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99909
+
+Pass: 1169
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99909
+
+Pass: 1170
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.986786
+
+Pass: 1171
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999093
+
+Pass: 1172
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999093
+
+Pass: 1173
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.986933
+
+Pass: 1174
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999096
+
+Pass: 1175
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98707
+
+Pass: 1176
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98718
+
+Pass: 1177
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990083
+
+Pass: 1178
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999106
+
+Pass: 1179
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990147
+
+Pass: 1180
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1181
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99911
+
+Pass: 1182
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990234
+
+Pass: 1183
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.987196
+
+Pass: 1184
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990288
+
+Pass: 1185
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1186
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99036
+
+Pass: 1187
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.987211
+
+Pass: 1188
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1189
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1190
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98733
+
+Pass: 1191
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990393
+
+Pass: 1192
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.987416
+
+Pass: 1193
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999133
+
+Pass: 1194
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999134
+
+Pass: 1195
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990433
+
+Pass: 1196
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.987503
+
+Pass: 1197
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990483
+
+Pass: 1198
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.987568
+
+Pass: 1199
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990531
+
+Pass: 1200
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.987641
+
+Pass: 1201
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1202
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999151
+
+Pass: 1203
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990576
+
+Pass: 1204
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999153
+
+Pass: 1205
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999154
+
+Pass: 1206
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.987709
+
+Pass: 1207
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1208
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1209
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990623
+
+Pass: 1210
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1211
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.987785
+
+Pass: 1212
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1213
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999163
+
+Pass: 1214
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.987906
+
+Pass: 1215
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1216
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990643
+
+Pass: 1217
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999168
+
+Pass: 1218
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999168
+
+Pass: 1219
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990713
+
+Pass: 1220
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.987938
+
+Pass: 1221
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990763
+
+Pass: 1222
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999175
+
+Pass: 1223
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999176
+
+Pass: 1224
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999176
+
+Pass: 1225
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990834
+
+Pass: 1226
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990885
+
+Pass: 1227
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.987899
+
+Pass: 1228
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.987973
+
+Pass: 1229
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99093
+
+Pass: 1230
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.988078
+
+Pass: 1231
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.990968
+
+Pass: 1232
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98815
+
+Pass: 1233
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.988231
+
+Pass: 1234
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99099
+
+Pass: 1235
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991033
+
+Pass: 1236
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.988296
+
+Pass: 1237
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999206
+
+Pass: 1238
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1239
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1240
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991094
+
+Pass: 1241
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1242
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1243
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99921
+
+Pass: 1244
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.988346
+
+Pass: 1245
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1246
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999212
+
+Pass: 1247
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999213
+
+Pass: 1248
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999213
+
+Pass: 1249
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.988463
+
+Pass: 1250
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991118
+
+Pass: 1251
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99116
+
+Pass: 1252
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.988492
+
+Pass: 1253
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1254
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99122
+
+Pass: 1255
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1256
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999224
+
+Pass: 1257
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98854
+
+Pass: 1258
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98862
+
+Pass: 1259
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1260
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1261
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991236
+
+Pass: 1262
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98873
+
+Pass: 1263
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991278
+
+Pass: 1264
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991323
+
+Pass: 1265
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991382
+
+Pass: 1266
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.988697
+
+Pass: 1267
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991446
+
+Pass: 1268
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999245
+
+Pass: 1269
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1270
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98874
+
+Pass: 1271
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1272
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999248
+
+Pass: 1273
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.988847
+
+Pass: 1274
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99925
+
+Pass: 1275
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991463
+
+Pass: 1276
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1277
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999253
+
+Pass: 1278
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1279
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.988911
+
+Pass: 1280
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999255
+
+Pass: 1281
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.989008
+
+Pass: 1282
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1283
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1284
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991477
+
+Pass: 1285
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999259
+
+Pass: 1286
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98908
+
+Pass: 1287
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98915
+
+Pass: 1288
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1289
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999265
+
+Pass: 1290
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991493
+
+Pass: 1291
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.989249
+
+Pass: 1292
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1293
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991532
+
+Pass: 1294
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1295
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991589
+
+Pass: 1296
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.989259
+
+Pass: 1297
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999275
+
+Pass: 1298
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991633
+
+Pass: 1299
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999277
+
+Pass: 1300
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1301
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1302
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.9893
+
+Pass: 1303
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991677
+
+Pass: 1304
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991715
+
+Pass: 1305
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991768
+
+Pass: 1306
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1307
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1308
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999285
+
+Pass: 1309
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991849
+
+Pass: 1310
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991889
+
+Pass: 1311
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98919
+
+Pass: 1312
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98925
+
+Pass: 1313
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999293
+
+Pass: 1314
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991921
+
+Pass: 1315
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999295
+
+Pass: 1316
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.991971
+
+Pass: 1317
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992014
+
+Pass: 1318
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.989262
+
+Pass: 1319
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1320
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.989339
+
+Pass: 1321
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999303
+
+Pass: 1322
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1323
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992044
+
+Pass: 1324
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992082
+
+Pass: 1325
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.989377
+
+Pass: 1326
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992132
+
+Pass: 1327
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1328
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992181
+
+Pass: 1329
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992221
+
+Pass: 1330
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.989349
+
+Pass: 1331
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99227
+
+Pass: 1332
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.989396
+
+Pass: 1333
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1334
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999321
+
+Pass: 1335
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999321
+
+Pass: 1336
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999321
+
+Pass: 1337
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1338
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.989491
+
+Pass: 1339
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.98956
+
+Pass: 1340
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1341
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999325
+
+Pass: 1342
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1343
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.989684
+
+Pass: 1344
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999327
+
+Pass: 1345
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.989771
+
+Pass: 1346
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1347
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99222
+
+Pass: 1348
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992256
+
+Pass: 1349
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999332
+
+Pass: 1350
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.989795
+
+Pass: 1351
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999334
+
+Pass: 1352
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1353
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999335
+
+Pass: 1354
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999335
+
+Pass: 1355
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1356
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992303
+
+Pass: 1357
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.989855
+
+Pass: 1358
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1359
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999339
+
+Pass: 1360
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.989932
+
+Pass: 1361
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1362
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992317
+
+Pass: 1363
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999342
+
+Pass: 1364
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1365
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999342
+
+Pass: 1366
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.989985
+
+Pass: 1367
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999344
+
+Pass: 1368
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992349
+
+Pass: 1369
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990043
+
+Pass: 1370
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990099
+
+Pass: 1371
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992366
+
+Pass: 1372
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1373
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992407
+
+Pass: 1374
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990143
+
+Pass: 1375
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992443
+
+Pass: 1376
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1377
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1378
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1379
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992492
+
+Pass: 1380
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990153
+
+Pass: 1381
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992524
+
+Pass: 1382
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999361
+
+Pass: 1383
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1384
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999362
+
+Pass: 1385
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.99019
+
+Pass: 1386
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999363
+
+Pass: 1387
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1388
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990273
+
+Pass: 1389
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99254
+
+Pass: 1390
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99257
+
+Pass: 1391
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990297
+
+Pass: 1392
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99937
+
+Pass: 1393
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992613
+
+Pass: 1394
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1395
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999372
+
+Pass: 1396
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999372
+
+Pass: 1397
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99266
+
+Pass: 1398
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990306
+
+Pass: 1399
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999375
+
+Pass: 1400
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1401
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999375
+
+Pass: 1402
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99269
+
+Pass: 1403
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992723
+
+Pass: 1404
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1405
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.99031
+
+Pass: 1406
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992769
+
+Pass: 1407
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999381
+
+Pass: 1408
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992807
+
+Pass: 1409
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999383
+
+Pass: 1410
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1411
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1412
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1413
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990317
+
+Pass: 1414
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990376
+
+Pass: 1415
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1416
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992823
+
+Pass: 1417
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992853
+
+Pass: 1418
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992894
+
+Pass: 1419
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990392
+
+Pass: 1420
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992937
+
+Pass: 1421
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1422
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1423
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990426
+
+Pass: 1424
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999395
+
+Pass: 1425
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.9905
+
+Pass: 1426
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999397
+
+Pass: 1427
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992948
+
+Pass: 1428
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992978
+
+Pass: 1429
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990532
+
+Pass: 1430
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999402
+
+Pass: 1431
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990594
+
+Pass: 1432
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993005
+
+Pass: 1433
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1434
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999405
+
+Pass: 1435
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990646
+
+Pass: 1436
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990701
+
+Pass: 1437
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990772
+
+Pass: 1438
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99941
+
+Pass: 1439
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1440
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999411
+
+Pass: 1441
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992992
+
+Pass: 1442
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990854
+
+Pass: 1443
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1444
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990914
+
+Pass: 1445
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.99097
+
+Pass: 1446
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1447
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.992988
+
+Pass: 1448
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999418
+
+Pass: 1449
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999418
+
+Pass: 1450
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1451
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999418
+
+Pass: 1452
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99303
+
+Pass: 1453
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999419
+
+Pass: 1454
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993069
+
+Pass: 1455
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99942
+
+Pass: 1456
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999421
+
+Pass: 1457
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999421
+
+Pass: 1458
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1459
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993115
+
+Pass: 1460
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999422
+
+Pass: 1461
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993153
+
+Pass: 1462
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993185
+
+Pass: 1463
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1464
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990875
+
+Pass: 1465
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990925
+
+Pass: 1466
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990992
+
+Pass: 1467
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1468
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993194
+
+Pass: 1469
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1470
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993229
+
+Pass: 1471
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999432
+
+Pass: 1472
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993269
+
+Pass: 1473
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1474
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999433
+
+Pass: 1475
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1476
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999433
+
+Pass: 1477
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993313
+
+Pass: 1478
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999434
+
+Pass: 1479
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999434
+
+Pass: 1480
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999434
+
+Pass: 1481
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.990967
+
+Pass: 1482
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999436
+
+Pass: 1483
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1484
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1485
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999436
+
+Pass: 1486
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1487
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999436
+
+Pass: 1488
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1489
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991041
+
+Pass: 1490
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991092
+
+Pass: 1491
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993312
+
+Pass: 1492
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993336
+
+Pass: 1493
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999441
+
+Pass: 1494
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1495
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1496
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991123
+
+Pass: 1497
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999443
+
+Pass: 1498
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993371
+
+Pass: 1499
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991171
+
+Pass: 1500
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1501
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1502
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1503
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991234
+
+Pass: 1504
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999447
+
+Pass: 1505
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999447
+
+Pass: 1506
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999447
+
+Pass: 1507
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991303
+
+Pass: 1508
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999449
+
+Pass: 1509
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1510
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.99137
+
+Pass: 1511
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1512
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1513
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999451
+
+Pass: 1514
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999451
+
+Pass: 1515
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1516
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993349
+
+Pass: 1517
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1518
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1519
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993387
+
+Pass: 1520
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991389
+
+Pass: 1521
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999454
+
+Pass: 1522
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999454
+
+Pass: 1523
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993412
+
+Pass: 1524
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991425
+
+Pass: 1525
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1526
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999457
+
+Pass: 1527
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991482
+
+Pass: 1528
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991529
+
+Pass: 1529
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1530
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99946
+
+Pass: 1531
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1532
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991613
+
+Pass: 1533
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1534
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991671
+
+Pass: 1535
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1536
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1537
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993379
+
+Pass: 1538
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1539
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991713
+
+Pass: 1540
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999465
+
+Pass: 1541
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993404
+
+Pass: 1542
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1543
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993439
+
+Pass: 1544
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993468
+
+Pass: 1545
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1546
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993514
+
+Pass: 1547
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1548
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993552
+
+Pass: 1549
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1550
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991634
+
+Pass: 1551
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999472
+
+Pass: 1552
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99358
+
+Pass: 1553
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991673
+
+Pass: 1554
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1555
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1556
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1557
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993602
+
+Pass: 1558
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1559
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1560
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1561
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999476
+
+Pass: 1562
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993638
+
+Pass: 1563
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1564
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1565
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991674
+
+Pass: 1566
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991718
+
+Pass: 1567
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999479
+
+Pass: 1568
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991791
+
+Pass: 1569
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1570
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999481
+
+Pass: 1571
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1572
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991859
+
+Pass: 1573
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999482
+
+Pass: 1574
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999482
+
+Pass: 1575
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99362
+
+Pass: 1576
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.9919
+
+Pass: 1577
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1578
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993643
+
+Pass: 1579
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991932
+
+Pass: 1580
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1581
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1582
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993666
+
+Pass: 1583
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991965
+
+Pass: 1584
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999489
+
+Pass: 1585
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993689
+
+Pass: 1586
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99949
+
+Pass: 1587
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99949
+
+Pass: 1588
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993723
+
+Pass: 1589
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991971
+
+Pass: 1590
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993747
+
+Pass: 1591
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991999
+
+Pass: 1592
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999495
+
+Pass: 1593
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992048
+
+Pass: 1594
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993759
+
+Pass: 1595
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993781
+
+Pass: 1596
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999498
+
+Pass: 1597
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1598
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999498
+
+Pass: 1599
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993825
+
+Pass: 1600
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1601
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999499
+
+Pass: 1602
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993858
+
+Pass: 1603
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1604
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.9995
+
+Pass: 1605
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993892
+
+Pass: 1606
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999501
+
+Pass: 1607
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993923
+
+Pass: 1608
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1609
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993956
+
+Pass: 1610
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.993981
+
+Pass: 1611
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999504
+
+Pass: 1612
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1613
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994023
+
+Pass: 1614
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994046
+
+Pass: 1615
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999506
+
+Pass: 1616
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1617
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1618
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999506
+
+Pass: 1619
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1620
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1621
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1622
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991854
+
+Pass: 1623
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999507
+
+Pass: 1624
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1625
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991913
+
+Pass: 1626
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999508
+
+Pass: 1627
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1628
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994063
+
+Pass: 1629
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1630
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1631
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99951
+
+Pass: 1632
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1633
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994094
+
+Pass: 1634
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991932
+
+Pass: 1635
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994114
+
+Pass: 1636
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.991963
+
+Pass: 1637
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1638
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992014
+
+Pass: 1639
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999515
+
+Pass: 1640
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992072
+
+Pass: 1641
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999516
+
+Pass: 1642
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994108
+
+Pass: 1643
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1644
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1645
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992111
+
+Pass: 1646
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992151
+
+Pass: 1647
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999519
+
+Pass: 1648
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992218
+
+Pass: 1649
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999521
+
+Pass: 1650
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999521
+
+Pass: 1651
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994102
+
+Pass: 1652
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999522
+
+Pass: 1653
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999522
+
+Pass: 1654
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1655
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999522
+
+Pass: 1656
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1657
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992255
+
+Pass: 1658
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992294
+
+Pass: 1659
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992343
+
+Pass: 1660
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994102
+
+Pass: 1661
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1662
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994126
+
+Pass: 1663
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999527
+
+Pass: 1664
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994157
+
+Pass: 1665
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1666
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.99235
+
+Pass: 1667
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999529
+
+Pass: 1668
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1669
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.9924
+
+Pass: 1670
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992438
+
+Pass: 1671
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999531
+
+Pass: 1672
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999532
+
+Pass: 1673
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999532
+
+Pass: 1674
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999532
+
+Pass: 1675
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1676
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999532
+
+Pass: 1677
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999532
+
+Pass: 1678
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994156
+
+Pass: 1679
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999532
+
+Pass: 1680
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1681
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992483
+
+Pass: 1682
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992519
+
+Pass: 1683
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994168
+
+Pass: 1684
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994186
+
+Pass: 1685
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994213
+
+Pass: 1686
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992526
+
+Pass: 1687
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992556
+
+Pass: 1688
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.9926
+
+Pass: 1689
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99954
+
+Pass: 1690
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992663
+
+Pass: 1691
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992701
+
+Pass: 1692
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1693
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999543
+
+Pass: 1694
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999543
+
+Pass: 1695
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999543
+
+Pass: 1696
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992766
+
+Pass: 1697
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999544
+
+Pass: 1698
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999544
+
+Pass: 1699
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994188
+
+Pass: 1700
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994209
+
+Pass: 1701
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999545
+
+Pass: 1702
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994245
+
+Pass: 1703
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1704
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992751
+
+Pass: 1705
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1706
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999547
+
+Pass: 1707
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994268
+
+Pass: 1708
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994289
+
+Pass: 1709
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994315
+
+Pass: 1710
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994344
+
+Pass: 1711
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994373
+
+Pass: 1712
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992697
+
+Pass: 1713
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994402
+
+Pass: 1714
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994422
+
+Pass: 1715
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1716
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1717
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994458
+
+Pass: 1718
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1719
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1720
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994486
+
+Pass: 1721
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999556
+
+Pass: 1722
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1723
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992652
+
+Pass: 1724
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1725
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992697
+
+Pass: 1726
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1727
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994494
+
+Pass: 1728
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999559
+
+Pass: 1729
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999559
+
+Pass: 1730
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99452
+
+Pass: 1731
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994539
+
+Pass: 1732
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99956
+
+Pass: 1733
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99956
+
+Pass: 1734
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994573
+
+Pass: 1735
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994593
+
+Pass: 1736
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992653
+
+Pass: 1737
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992683
+
+Pass: 1738
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994609
+
+Pass: 1739
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999564
+
+Pass: 1740
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1741
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999565
+
+Pass: 1742
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1743
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994632
+
+Pass: 1744
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992709
+
+Pass: 1745
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994649
+
+Pass: 1746
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992734
+
+Pass: 1747
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999568
+
+Pass: 1748
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1749
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999568
+
+Pass: 1750
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992781
+
+Pass: 1751
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994657
+
+Pass: 1752
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994673
+
+Pass: 1753
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994695
+
+Pass: 1754
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999571
+
+Pass: 1755
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1756
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99473
+
+Pass: 1757
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994748
+
+Pass: 1758
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1759
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999573
+
+Pass: 1760
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99478
+
+Pass: 1761
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1762
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994803
+
+Pass: 1763
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999574
+
+Pass: 1764
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994827
+
+Pass: 1765
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1766
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999575
+
+Pass: 1767
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999575
+
+Pass: 1768
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992668
+
+Pass: 1769
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992703
+
+Pass: 1770
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999577
+
+Pass: 1771
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994835
+
+Pass: 1772
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999578
+
+Pass: 1773
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1774
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994857
+
+Pass: 1775
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999578
+
+Pass: 1776
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1777
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992728
+
+Pass: 1778
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999579
+
+Pass: 1779
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99958
+
+Pass: 1780
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1781
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994872
+
+Pass: 1782
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992763
+
+Pass: 1783
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994886
+
+Pass: 1784
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1785
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992788
+
+Pass: 1786
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999583
+
+Pass: 1787
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.9949
+
+Pass: 1788
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999583
+
+Pass: 1789
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999584
+
+Pass: 1790
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994922
+
+Pass: 1791
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1792
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1793
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992797
+
+Pass: 1794
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994939
+
+Pass: 1795
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999586
+
+Pass: 1796
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1797
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994959
+
+Pass: 1798
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.994976
+
+Pass: 1799
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1800
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995003
+
+Pass: 1801
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992775
+
+Pass: 1802
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995019
+
+Pass: 1803
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.9928
+
+Pass: 1804
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992833
+
+Pass: 1805
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1806
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999592
+
+Pass: 1807
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1808
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995022
+
+Pass: 1809
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995038
+
+Pass: 1810
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1811
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1812
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999593
+
+Pass: 1813
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999593
+
+Pass: 1814
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999593
+
+Pass: 1815
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992858
+
+Pass: 1816
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99506
+
+Pass: 1817
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1818
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999594
+
+Pass: 1819
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992887
+
+Pass: 1820
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999595
+
+Pass: 1821
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1822
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1823
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992934
+
+Pass: 1824
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1825
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1826
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1827
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995061
+
+Pass: 1828
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992968
+
+Pass: 1829
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999598
+
+Pass: 1830
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999598
+
+Pass: 1831
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999598
+
+Pass: 1832
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1833
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995074
+
+Pass: 1834
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995089
+
+Pass: 1835
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1836
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1837
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1838
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999599
+
+Pass: 1839
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999599
+
+Pass: 1840
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1841
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995117
+
+Pass: 1842
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1843
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992956
+
+Pass: 1844
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999601
+
+Pass: 1845
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99513
+
+Pass: 1846
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999601
+
+Pass: 1847
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1848
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999601
+
+Pass: 1849
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992983
+
+Pass: 1850
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999602
+
+Pass: 1851
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995143
+
+Pass: 1852
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995157
+
+Pass: 1853
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999603
+
+Pass: 1854
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995182
+
+Pass: 1855
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999604
+
+Pass: 1856
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1857
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1858
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999604
+
+Pass: 1859
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1860
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999604
+
+Pass: 1861
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995206
+
+Pass: 1862
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999605
+
+Pass: 1863
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995225
+
+Pass: 1864
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1865
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1866
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.99294
+
+Pass: 1867
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1868
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.992982
+
+Pass: 1869
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993018
+
+Pass: 1870
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995224
+
+Pass: 1871
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1872
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1873
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1874
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995241
+
+Pass: 1875
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993049
+
+Pass: 1876
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995254
+
+Pass: 1877
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1878
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993072
+
+Pass: 1879
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999612
+
+Pass: 1880
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995265
+
+Pass: 1881
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1882
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1883
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999612
+
+Pass: 1884
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.9931
+
+Pass: 1885
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999613
+
+Pass: 1886
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993141
+
+Pass: 1887
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993175
+
+Pass: 1888
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993216
+
+Pass: 1889
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999616
+
+Pass: 1890
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999616
+
+Pass: 1891
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999616
+
+Pass: 1892
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995251
+
+Pass: 1893
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995265
+
+Pass: 1894
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995283
+
+Pass: 1895
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995303
+
+Pass: 1896
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999618
+
+Pass: 1897
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1898
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1899
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999618
+
+Pass: 1900
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1901
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999618
+
+Pass: 1902
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993208
+
+Pass: 1903
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993239
+
+Pass: 1904
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993278
+
+Pass: 1905
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99962
+
+Pass: 1906
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1907
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999621
+
+Pass: 1908
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995306
+
+Pass: 1909
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99532
+
+Pass: 1910
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1911
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995344
+
+Pass: 1912
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999622
+
+Pass: 1913
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995364
+
+Pass: 1914
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999623
+
+Pass: 1915
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995383
+
+Pass: 1916
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995398
+
+Pass: 1917
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993244
+
+Pass: 1918
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995416
+
+Pass: 1919
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1920
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995433
+
+Pass: 1921
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993253
+
+Pass: 1922
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1923
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999627
+
+Pass: 1924
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999627
+
+Pass: 1925
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1926
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999627
+
+Pass: 1927
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1928
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999627
+
+Pass: 1929
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1930
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999627
+
+Pass: 1931
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1932
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995445
+
+Pass: 1933
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.99328
+
+Pass: 1934
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999628
+
+Pass: 1935
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995456
+
+Pass: 1936
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993306
+
+Pass: 1937
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993333
+
+Pass: 1938
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995461
+
+Pass: 1939
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.99337
+
+Pass: 1940
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.9934
+
+Pass: 1941
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993437
+
+Pass: 1942
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999633
+
+Pass: 1943
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995454
+
+Pass: 1944
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993481
+
+Pass: 1945
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993507
+
+Pass: 1946
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993543
+
+Pass: 1947
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995452
+
+Pass: 1948
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995463
+
+Pass: 1949
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995479
+
+Pass: 1950
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993557
+
+Pass: 1951
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1952
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999639
+
+Pass: 1953
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999639
+
+Pass: 1954
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.99359
+
+Pass: 1955
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999639
+
+Pass: 1956
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999639
+
+Pass: 1957
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1958
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1959
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99964
+
+Pass: 1960
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993629
+
+Pass: 1961
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995484
+
+Pass: 1962
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995496
+
+Pass: 1963
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995512
+
+Pass: 1964
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99553
+
+Pass: 1965
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1966
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995553
+
+Pass: 1967
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993597
+
+Pass: 1968
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999643
+
+Pass: 1969
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999644
+
+Pass: 1970
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1971
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1972
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.99363
+
+Pass: 1973
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1974
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995559
+
+Pass: 1975
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995571
+
+Pass: 1976
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1977
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993641
+
+Pass: 1978
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995589
+
+Pass: 1979
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.9956
+
+Pass: 1980
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1981
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1982
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999647
+
+Pass: 1983
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995622
+
+Pass: 1984
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1985
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1986
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1987
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1988
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.99564
+
+Pass: 1989
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1990
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993619
+
+Pass: 1991
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993645
+
+Pass: 1992
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1993
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99965
+
+Pass: 1994
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.99965
+
+Pass: 1995
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995642
+
+Pass: 1996
+Input
+1
+1
+TargetVal
+0
+resultVal
+0.993684
+
+Pass: 1997
+Input
+0
+0
+TargetVal
+0
+resultVal
+0
+
+Pass: 1998
+Input
+1
+0
+TargetVal
+1
+resultVal
+-0.995653
+
+Pass: 1999
+Input
+0
+1
+TargetVal
+1
+resultVal
+0.999651
+
